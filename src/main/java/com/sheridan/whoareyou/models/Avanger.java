@@ -1,6 +1,5 @@
 package com.sheridan.whoareyou.models;
 public class Avanger {
-    //name,canFly,intelligence,
     private String name;
     private boolean canFly;
     private int intelligence;
